@@ -1,0 +1,9 @@
+﻿  Admin.cpp
+  Bilet.cpp
+  Eveniment.cpp
+  Locatie.cpp
+  Source.cpp
+  Zona.cpp
+  Generating Code...
+D:\facultate\An II\POO\incercari\OOPfaza2\OOPfaza2\Locatie.cpp(104): warning C4715: 'Locatie::getZone': not all control paths return a value
+  OOPfaza2.vcxproj -> D:\facultate\An II\POO\incercari\OOPfaza2\x64\Debug\OOPfaza2.exe
